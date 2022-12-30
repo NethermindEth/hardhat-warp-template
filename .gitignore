@@ -1,0 +1,21 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+*.CALL_ROLLBACK.snapshot
+*.benchmark.json
+*.log
+*.fixture.*.snapshot
+stdout.log
+
+# Python
+venv
+
+# yarn
+yarn-error.log
