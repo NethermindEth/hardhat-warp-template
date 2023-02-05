@@ -1,5 +1,3 @@
-import { freedom } from "@nethermindeth/hardhat-warp/dist/index_before";
-freedom(require);
 import { HardhatUserConfig } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox";
 import "@nethermindeth/hardhat-warp";
