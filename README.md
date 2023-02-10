@@ -11,6 +11,12 @@ source venv/bin/activate
 pip install starknet-devnet
 ```
 
+Then, to fetch all the dependencies run:
+
+```shell
+yarn
+```
+
 Try running some of the following tasks:
 
 ```shell
